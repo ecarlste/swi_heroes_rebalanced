@@ -3,12 +3,12 @@
   <add sel="//job[@id='hero_aeternum_patrol']/subordinates">
     <subordinate job="dabc_galempire_allegiance_escort_xxl" />
     <subordinate job="dabc_galempire_allegiance_escort_xxl" />
-    <!-- <subordinate job="dabc_galempire_allegiance_escort_xxl" />
     <subordinate job="dabc_galempire_allegiance_escort_xxl" />
     <subordinate job="dabc_galempire_allegiance_escort_xxl" />
-    <subordinate job="dabc_galempire_allegiance_escort_xxl" /> -->
+    <subordinate job="dabc_galempire_allegiance_escort_xxl" />
+    <subordinate job="dabc_galempire_allegiance_escort_xxl" />
     <subordinate job="galempire_isd_escort" />
-    <!-- <subordinate job="galempire_isd_escort" />
-    <subordinate job="galempire_isd_escort" /> -->
+    <subordinate job="galempire_isd_escort" />
+    <subordinate job="galempire_isd_escort" />
   </add>
 </diff>

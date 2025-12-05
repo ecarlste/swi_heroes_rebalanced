@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <replace sel="/index/entry[@name='heroes_bullet_aeternum_macro']/@value">extensions\swi_heroes_rebalanced\assets\fx\weaponFx\macros\heroes_bullet_aeternum_macro</replace>
+</diff>

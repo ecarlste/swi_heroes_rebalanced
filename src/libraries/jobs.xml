@@ -11,4 +11,6 @@
     <subordinate job="galempire_isd_escort" />
     <subordinate job="galempire_isd_escort" />
   </add>
+
+  <replace sel="//job[@id='hero_conqueror_escort_xl']/quota/@wing">1</replace>
 </diff>

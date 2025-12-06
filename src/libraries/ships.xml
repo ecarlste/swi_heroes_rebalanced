@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<diff>
+  <remove sel="/diff/add[@sel='/ships']/ship[@id='hero_umbral_fury_s']/@capturable" />
+  <remove sel="/diff/add[@sel='/ships']/ship[@id='hero_truesight_s']/@capturable" />
+</diff>

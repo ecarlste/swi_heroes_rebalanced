@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Exported by: Matthias (192.168.3.66) on 2022-08-12
-16:05:49-->
 <macros>
   <macro name="heroes_bullet_aeternum_macro" class="bullet">
     <component ref="bullet_atf_xl_beam_01_mk1" />

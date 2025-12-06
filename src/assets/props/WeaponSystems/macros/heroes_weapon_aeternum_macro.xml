@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<macros>
+  <macro name="heroes_weapon_aeternum_macro" class="weapon">
+    <component ref="heroes_weapon_aeternum" />
+    <properties>
+      <identification name="{343005,15}" makerrace="terran" description="{343005,16}" />
+      <bullet class="heroes_bullet_aeternum_macro" />
+      <heat overheat="1000000" cooldelay="0.13" coolrate="173" reenable="0" />
+      <hull max="1000000" integrated="1" />
+      <effects>
+        <firing start="startshooting_atf_xl_beam_01_mk1" stop="stopshooting_atf_xl_beam_01_mk1" />
+      </effects>
+    </properties>
+  </macro>
+</macros>

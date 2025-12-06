@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<diff>
+  <add sel="/diff/add[@sel='/droplists']/droplist[@id='heroes_boss_umbra']">
+    <drop macro="sm_gen_wares_rare_01_macro" chance="100">
+      <collectable>
+        <wares selection="random">
+          <select weight="100">
+            <ware ware="heroes_inv_miniboss" amount="1" />
+          </select>
+        </wares>
+      </collectable>
+    </drop>
+  </add>
+  <add sel="/diff/add[@sel='/droplists']/droplist[@id='heroes_boss_imperium']">
+    <drop macro="sm_gen_wares_rare_01_macro" chance="100">
+      <collectable>
+        <wares selection="random">
+          <select weight="100">
+            <ware ware="heroes_inv_miniboss" amount="2" />
+          </select>
+        </wares>
+      </collectable>
+    </drop>
+  </add>
+  <add sel="/diff/add[@sel='/droplists']/droplist[@id='heroes_boss_aeternum']">
+    <drop macro="sm_gen_wares_rare_01_macro" chance="100">
+      <collectable>
+        <wares selection="random">
+          <select weight="100">
+            <ware ware="heroes_inv_miniboss" amount="3" />
+          </select>
+        </wares>
+      </collectable>
+    </drop>
+  </add>
+  <add sel="/diff/add[@sel='/droplists']/droplist[@id='heroes_tier1_xxl']">
+    <drop macro="sm_gen_wares_rare_01_macro" chance="40">
+      <collectable>
+        <wares selection="random">
+          <select weight="100">
+            <ware ware="heroes_inv_miniboss" amount="1" />
+          </select>
+        </wares>
+      </collectable>
+    </drop>
+  </add>
+  <add sel="/diff/add[@sel='/droplists']/droplist[@id='heroes_boss_legion']">
+    <drop macro="sm_gen_wares_rare_01_macro" chance="100">
+      <collectable>
+        <wares selection="random">
+          <select weight="100">
+            <ware ware="heroes_inv_miniboss" amount="2" />
+          </select>
+        </wares>
+      </collectable>
+    </drop>
+  </add>
+</diff>
